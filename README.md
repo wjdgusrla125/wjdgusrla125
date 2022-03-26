@@ -11,7 +11,9 @@
 <details>
   <summary><b>🏆 Awards and Honors</b></summary>
   <ul>
-      
+    <a href="https://www.koreascience.or.kr/article/JAKO202106957202291.pdf" target="_blank">
+      ISAAC 2021 BestPaperAward
+    </a>
   </ul>
 </details>
 
