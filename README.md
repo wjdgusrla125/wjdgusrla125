@@ -1,19 +1,36 @@
 ### Hi there 👋
 
-<!--
-**wjdgusrla125/wjdgusrla125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+> If you want to contact me, please leave me a message
+<p>
+  <a href="https://github.com/wjdgusrla125/" target="_blank"><img src="https://img.shields.io/badge/KimJungHyun-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="mailto:wjdgusrla125@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjdgusrla125@gmail.com-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
 ![wjdgusrla125's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdgusrla125&show_icons=true&theme=radical)
+
+<details>
+  <summary><b>🏆 Awards and Honors</b></summary>
+  <ul>
+      
+  </ul>
+</details>
+
+<details>
+  <summary><b>✔ Careers</b></summary>
+  <ul>
+    <li>
+      <a href="http://xicomlab.re.kr/" target="_blank">
+        Researcher, Xicom Lab, SKU.
+      </a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🚀 Others</b></summary>
+  <ul>
+    <li>
+        NRF Research, Multi-player collaboration XR hair styling synthesis For non-face-to-face hair training suitable for the post-COVID19.
+    </li>
+  </ul>
+</details>
