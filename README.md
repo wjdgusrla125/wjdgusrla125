@@ -6,7 +6,6 @@
   <a href="mailto:wjdgusrla125@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjdgusrla125@gmail.com-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-![wjdgusrla125's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdgusrla125&show_icons=true&theme=radical)
 
 <details>
   <summary><b>🏆 Awards and Honors</b></summary>
